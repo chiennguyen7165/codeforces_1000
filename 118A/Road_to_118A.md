@@ -16,4 +16,4 @@ Then use a for loop for access each character of the input. Here the logic:
 When the loop is over, we will have a list just includ all of consonats from the input string
 
 Finnaly, add "." for each character of the list and convert it to a string
-You can use join() method to do that, like the example code. Note print one more "." before the result string 
+You can use join() method to do that, like the example code. Don't forget print one more "." before the result string 
